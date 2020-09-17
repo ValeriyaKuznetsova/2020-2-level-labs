@@ -4,8 +4,8 @@ Checks the first lab text preprocessing functions
 """
 
 import unittest
-from main import tokenize
-from main import read_from_file
+from lab_1.main import tokenize
+from lab_1.main import read_from_file
 
 
 class TokenizeTest(unittest.TestCase):

@@ -4,7 +4,7 @@ Checks the first lab get top words function
 """
 
 import unittest
-from main import get_top_n_words
+from lab_1.main import get_top_n_words
 
 
 class GetTopNWordsTest(unittest.TestCase):

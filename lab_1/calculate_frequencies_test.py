@@ -4,7 +4,7 @@ Checks the first lab calculate frequencies function
 """
 
 import unittest
-from main import calculate_frequencies
+from lab_1.main import calculate_frequencies
 
 
 class CalculateFrequenciesTest(unittest.TestCase):

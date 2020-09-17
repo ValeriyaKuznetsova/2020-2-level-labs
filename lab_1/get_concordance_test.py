@@ -4,9 +4,9 @@ Checks the first lab concordance building function
 """
 
 import unittest
-from main import get_concordance
-from main import tokenize
-from main import read_from_file
+from lab_1.main import get_concordance
+from lab_1.main import tokenize
+from lab_1.main import read_from_file
 
 
 class GetConcordanceTest(unittest.TestCase):

@@ -4,9 +4,9 @@ Checks the first lab dictionary functions
 """
 
 import unittest
-from main import sort_concordance
-from main import tokenize
-from main import read_from_file
+from lab_1.main import sort_concordance
+from lab_1.main import tokenize
+from lab_1.main import read_from_file
 
 
 class GetAndSortConcordanceTest(unittest.TestCase):

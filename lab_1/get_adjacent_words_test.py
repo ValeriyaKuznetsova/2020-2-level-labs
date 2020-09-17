@@ -4,9 +4,9 @@ Checks the first lab adjacent words extraction
 """
 
 import unittest
-from main import get_adjacent_words
-from main import tokenize
-from main import read_from_file
+from lab_1.main import get_adjacent_words
+from lab_1.main import tokenize
+from lab_1.main import read_from_file
 
 
 class GetAdjacentWordsTest(unittest.TestCase):

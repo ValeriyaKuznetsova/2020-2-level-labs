@@ -4,7 +4,7 @@ Checks the first lab stop words removal functions
 """
 
 import unittest
-from main import remove_stop_words
+from lab_1.main import remove_stop_words
 
 
 class RemoveStopWordsTest(unittest.TestCase):
